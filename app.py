@@ -5,7 +5,7 @@ import re
 from transformers import pipeline
 
 # ⛔ Replace with your actual API key
-YOUTUBE_API_KEY = "AIzaSyAbbwSAUNrCumcEVU3pFzdzxKZzQzBpMsU"
+YOUTUBE_API_KEY = "AIzaSyB9jN_V6lxMCGmKKI862_aTm7L3BbkA3Hc"
 
 # Setup: Load Hugging Face sentiment analysis pipeline
 sentiment_pipeline = pipeline("sentiment-analysis")
